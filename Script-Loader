@@ -1,0 +1,8 @@
+print(game.PlaceId)
+if game.PlaceId == 9825515356 or game.PlaceId == 9825515356 or game.PlaceId == 9825515356 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/98KRapid/ViciousHub/main/Hood-Customs"))()
+elseif game.PlaceId == 12604352060 then
+print ("not supported?")
+else
+print ("not supported?")
+end
